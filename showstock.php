@@ -1,0 +1,1 @@
+<?php echo $this->product->product_in_stock ?>
